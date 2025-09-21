@@ -32,7 +32,7 @@
 <h2> 🛠 Tecnologías principales </h2>
 
 <p align="center">
-<a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="NestJS"></a>
+<a href="#"><img width="45px" src="https://nestjs.com/logo-small-gradient.d792062c.svg" title="NestJS"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"></a>

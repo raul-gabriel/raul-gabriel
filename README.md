@@ -54,12 +54,4 @@
 <a href="https://github.com/RaulGabriel" target="_blank"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </p>
 
----
 
-<h2> 📊 Estadísticas de GitHub </h2>
-
-| ![Raul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulGabriel&show_icons=true&theme=tokyonight) | ![Raul GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaulGabriel&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulGabriel&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=RaulGabriel&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
----

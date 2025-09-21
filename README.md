@@ -7,16 +7,17 @@
 </p>
 <p>Soy desarrollador full stack, programador competitivo y también me gusta crear proyectos en Diferetnes lenguajes de programacion</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<ul>
- <ul>
-  <li>👋 Hola, soy Raul Gabriel</li>
-  <li>🌱 Tengo experiencia en desarrollo web, móvil y de escritorio, usando tecnologías como NestJS, Tailwind CSS, React, Next.js, Express, Java, JavaScript, PHP, Laravel y Flutter, entre otras.</li>
-  <li>💼 Soy desarrollador Full Stack, trabajando tanto en front-end como en back-end para crear aplicaciones completas y eficientes.</li>
-  <li>🛠 Me apasiona aprender nuevas tecnologías, optimizar código y desarrollar proyectos desafiantes que combinen diseño, funcionalidad y rendimiento.</li>
-  <li>📫 Puedes contactarme a través de GitHub o LinkedIn para colaboraciones o consultas profesionales.</li>
 
 
+
+
+<ul class="list-disc pl-6 space-y-2">
+  <li>👋 Hola, soy <strong>Raul Gabriel</strong>.</li>
+  <li>🌱 Tengo experiencia en desarrollo <strong>web, móvil y de escritorio</strong>, trabajando con tecnologías como <strong>NestJS, React, Next.js, Tailwind CSS, Express, Java, PHP, Laravel, Flutter</strong>, entre otras.</li>
+  <li>💼 Soy <strong>desarrollador Full Stack</strong>, creando soluciones completas desde el front-end hasta el back-end.</li>
+  <li>🛠 Me apasiona aprender nuevas tecnologías, optimizar código y desarrollar proyectos desafiantes que combinen <strong>diseño, funcionalidad y rendimiento</strong>.</li>
+  <li>📫 Puedes contactarme en <a href="https://github.com/raul-gabriel/raul-gabriel" target="_blank" class="text-blue-600 hover:underline">GitHub</a> o <a href="https://pe.linkedin.com/in/raul-hacho-cutipa-0b3711230" target="_blank" class="text-blue-600 hover:underline">LinkedIn</a> para colaboraciones o consultas profesionales.</li>
 </ul>
 
-</ul>
+
 

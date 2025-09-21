@@ -43,6 +43,9 @@
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"></a>
+<a href="#"><img width="45px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" title="Kali linux"></a>
+
+  
 </p>
 
 ---

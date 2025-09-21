@@ -35,10 +35,10 @@
 <a href="#"><img width="45px" src="https://nestjs.com/logo-small-gradient.d792062c.svg" title="NestJS"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js"></a>
-<a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"></a>
+<a href="#"><img width="45px" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" title="Tailwind CSS"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter"></a>
-<a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" title="Laravel"></a>
+<a href="#"><img width="45px" src="https://github.com/laravel/art/blob/master/laravel-logo.png" title="Laravel"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></a>
 <a href="#"><img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></a>

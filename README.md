@@ -53,8 +53,8 @@
 <h2> 🤝 Conecta conmigo </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tu-linkedin" target="_blank"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href="https://github.com/RaulGabriel" target="_blank"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="www.linkedin.com/in/raul-hacho-cutipa-0b3711230" target="_blank"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href="https://github.com/raul-gabriel" target="_blank"><img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 </p>
 
 

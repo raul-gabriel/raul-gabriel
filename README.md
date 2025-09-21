@@ -27,7 +27,8 @@
 <h2> 🚀 Sobre mí </h2>
 
 <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/00000000?v=4"> <!-- Reemplaza con tu avatar real -->
+   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 </p>
 - 🌱 Tengo experiencia en desarrollo **web, móvil y de escritorio**, trabajando con:  
   **NestJS, React, Next.js, Tailwind CSS, Express, Java, PHP, Laravel, Flutter**, entre otras.  
